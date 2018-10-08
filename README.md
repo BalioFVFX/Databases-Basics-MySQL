@@ -1,2 +1,2 @@
-# JS-Aplications
-Third course of JS Core module
+# Databases-Basics-MySQL
+First course of the Java DB Fundamentals module.
